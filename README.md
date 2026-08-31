@@ -1,5 +1,11 @@
 # rusty_jinja
 
+> **This repository has moved.** `rusty_jinja` now lives at
+> [`crates/rusty_jinja`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_jinja)
+> in the [`rusty_mill`](https://github.com/Rusty-Mill/rusty_mill) monorepo, with full commit
+> history preserved. This repository is kept for historical reference and is no longer
+> developed; please open issues and pull requests against `rusty_mill` instead.
+
 A `#![no_std]` + `alloc` sovereign, real (subset, honestly-documented)
 Jinja2 template engine — for rendering the actual Jinja chat-template
 source a GGUF model embeds, the same job `rusty_llama` currently asks the
